@@ -1,0 +1,12 @@
+/* Current page slides height*/
+.slideColor {
+  height: 100vh;
+}
+
+/* Comman Inputs and Output styles */
+.guessInputsOutputs {
+  width: 200px;
+  height: 2.1rem;
+  text-align: center;
+  margin: 10px;
+}
